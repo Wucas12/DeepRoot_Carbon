@@ -1,0 +1,14 @@
+/Users/xlwu25/Desktop/ScratchSpace/obj/Debug/net9.0/ScratchSpace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xlwu25/Desktop/ScratchSpace/obj/Debug/net9.0/ScratchSpace.AssemblyInfoInputs.cache
+/Users/xlwu25/Desktop/ScratchSpace/obj/Debug/net9.0/ScratchSpace.AssemblyInfo.cs
+/Users/xlwu25/Desktop/ScratchSpace/obj/Debug/net9.0/ScratchSpace.csproj.CoreCompileInputs.cache
+/Users/xlwu25/Desktop/ScratchSpace/bin/Debug/net9.0/ScratchSpace
+/Users/xlwu25/Desktop/ScratchSpace/bin/Debug/net9.0/ScratchSpace.deps.json
+/Users/xlwu25/Desktop/ScratchSpace/bin/Debug/net9.0/ScratchSpace.runtimeconfig.json
+/Users/xlwu25/Desktop/ScratchSpace/bin/Debug/net9.0/ScratchSpace.dll
+/Users/xlwu25/Desktop/ScratchSpace/bin/Debug/net9.0/ScratchSpace.pdb
+/Users/xlwu25/Desktop/ScratchSpace/obj/Debug/net9.0/ScratchSpace.dll
+/Users/xlwu25/Desktop/ScratchSpace/obj/Debug/net9.0/refint/ScratchSpace.dll
+/Users/xlwu25/Desktop/ScratchSpace/obj/Debug/net9.0/ScratchSpace.pdb
+/Users/xlwu25/Desktop/ScratchSpace/obj/Debug/net9.0/ScratchSpace.genruntimeconfig.cache
+/Users/xlwu25/Desktop/ScratchSpace/obj/Debug/net9.0/ref/ScratchSpace.dll
